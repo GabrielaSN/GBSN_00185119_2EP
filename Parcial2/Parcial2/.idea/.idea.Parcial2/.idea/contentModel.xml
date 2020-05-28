@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gbsol\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gbsol\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial2.3804298.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="controls" t="Include">
+        <e p="encriptador.cs" t="Include" />
+      </e>
+      <e p="modelo" t="Include">
+        <e p="conexion.cs" t="Include" />
+        <e p="product.cs" t="Include" />
+        <e p="productDAO.cs" t="Include" />
+        <e p="usuario.cs" t="Include" />
+        <e p="UsuarioDAO.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial2.csproj" t="IncludeRecursive" />
+      <e p="Parcial2.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Vista" t="Include">
+        <e p="ActContra.cs" t="Include" />
+        <e p="ActContra.Designer.cs" t="Include" />
+        <e p="ActContra.resx" t="Include" />
+        <e p="frmNormal.cs" t="Include" />
+        <e p="frmNormal.Designer.cs" t="Include" />
+        <e p="frmNormal.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+        <e p="principal.cs" t="Include" />
+        <e p="principal.Designer.cs" t="Include" />
+        <e p="principal.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

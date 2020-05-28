@@ -1,0 +1,14 @@
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.GenerateResource.cache
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.exe.config
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.vista.ActContra.resources
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.vista.frmNormal.resources
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.vista.Login.resources
+C:\Users\gbsol\Desktop\Parcial2POO\GBSN_00185119_2EP\Parcial2\Parcial2\obj\Debug\Parcial2.vista.principal.resources
